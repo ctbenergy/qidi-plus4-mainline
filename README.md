@@ -150,7 +150,7 @@ git pull origin master
 5. Save and quit by pressing `q` then `y` to save
 6. Build klipper by running `make clean; make -j4`
 7. Prepare to flash. Double-click the "RESET" button on the board to load   katapult. The button must be pressed twice within 500ms.
-![image](doc/images/main-mcu-reset-button-.png)
+![image](doc/images/main-mcu-reset-button.png)
 8. Flash via katapult by doing the following:
     ```
     cd ~/katapult/scripts
