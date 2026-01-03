@@ -1,0 +1,8 @@
+# VSCode
+*.code-workspace
+.vscode
+
+# Documentation snippets
+st-link-v2-mini-stm32-mcu.md
+stm32-cube-programmer.md
+update-or-re-flash-via-st-link.md
