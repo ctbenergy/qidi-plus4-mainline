@@ -1,4 +1,4 @@
-# Qidi Plus 4 Mainline Klipper/Kalico Guide + LCD Screen
+# Qidi Plus 4 Mainline Klipper/Kalico Guide with MKS-PI Armbian image
 
 # ⚠️ WARNING
 
@@ -9,7 +9,9 @@ These modifications are for experienced users. If you are not comfortable with a
 
 **ALSO NOTE: YOUR OEM SCREEN AND QIDI BOX WILL NOT WORK AFTER FOLLOWING THESE STEPS**
 
-You can opt to replace the screen and move to a KlipperScreen setup to get a functioning display or use [Klipmin](https://github.com/ctbenergy/klipmin)
+You can opt to replace the screen and move to a KlipperScreen setup to get a functioning display.
+
+Another option to use the OEM screen is [Klipmin](https://github.com/ctbenergy/qidi-plus4-klipmi)
 
 # Credits
 
