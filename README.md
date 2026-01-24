@@ -72,6 +72,12 @@ systemctl mask serial-getty@ttyS2.service
 
 For more information on these changes, see here: https://github.com/redrathnure/armbian-mkspi?tab=readme-ov-file#disable-debug-console-uart2--or-freeup-uart1-interface
 
+### USB autosuspend
+
+```bash
+echo 'extraargs=usbcore.autosuspend=-1' > sudo tee -a /boot/armbianEnv.txt
+```
+
 ## Installing klipper/kalico, moonraker, fluidd/mainsail and friends
 
 Now that we have a clean, fresh system, we can start installing the software needed to run the printer. If you want to do this manually, you certainly can.
