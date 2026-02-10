@@ -787,4 +787,5 @@ install_script: install.sh
 - [redrathnure](https://github.com/redrathnure) for MKS-PI Armbian image 
 - [phrac](https://github.com/phrac) for Qidi Plus 4 Mainline flashing
 - [DrFate09](https://github.com/DrFate09) for Qidi Plus 4 Mainline configuration
+- [Wazzup77](https://github.com/Wazzup77) for Qidi Plus 4 Happy-Hare
 - [frap129](https://github.com/frap129) for [Klip]per for H[MI] displays like TJC and Nextion
