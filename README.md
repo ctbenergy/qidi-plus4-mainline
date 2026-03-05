@@ -655,7 +655,9 @@ sudo visudo
 2. Add a line to grant passwordless sudo access.
 For a specific user:
 ```
-mks ALL=(ALL) NOPASSWD: ALL
+# User privilege specification
+root    ALL=(ALL:ALL) ALL
+mks     ALL=(ALL) NOPASSWD: ALL
 ```
 3. Verify
 You can test it by running a sudo command:
